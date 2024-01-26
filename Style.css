@@ -120,12 +120,11 @@ tr:last-child{
     border-top: none;
     border-bottom: none;
 }
-@media (max-width: 375px) {
-    .container{
-        min-width: 27rem;
-    }  
+@media (max-width: 720px) {
+    
     .main-card {
-        margin: 0 0 6px 0;
+        width: min(99.5%, 47rem);
+        margin: 0 auto;
         padding: 0 0 2rem;
     s
 
