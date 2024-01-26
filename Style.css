@@ -25,7 +25,7 @@ body{
 .main-card{
     background-color:  var(--White);
     width: min(87.5%, 47rem);
-    margin: 5.5rem auto;
+    margin: 6.5rem auto;
     border-radius: 15px;
     padding: 2.5rem 2.7rem 2rem;
     font-family: 'Outfit', sans-serif;
@@ -50,6 +50,7 @@ h1{
     font-size: 2.5rem;
     font-style: oblique;
     padding: 2rem 0rem;
+    color: var(--dark-charcoal);
 }
 .Preparation{
     background-color: var(--Rose-White);
